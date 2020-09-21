@@ -1,13 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Memory Game with Mario Theme
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Created using Vanilla Javascript
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+In this project I practiced some CSS animations, especially the card flip.
+In JS I manipulated HTML dataset, classList and EventListener.
