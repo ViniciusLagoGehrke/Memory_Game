@@ -1,6 +1,6 @@
 # Memory Game with Mario Theme
 
-[Memory Game Preview](Desktop_Preview.png)
+![Memory Game Preview](Desktop_Preview.png)
 
 Created using Vanilla Javascript
 
